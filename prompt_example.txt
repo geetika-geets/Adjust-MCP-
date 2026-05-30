@@ -6,6 +6,11 @@ Account Details:
 Data to Fetch: 
 - Please share the previous 2 weeks' install numbers(Data Range), along with Ad spend at the channel & campaign level breakdown at the OS level.  
 - Please summarise the top-performing OS, channel, & campaign name.
+- Event Names:
+- IAP Revenue:
+- Ad Revenue Mediation Platform: 
 			
 Format: 
-- Please share the above install , & ad spend data using tabular & graph format.
+- Please share the above install, & ad spend data using tabular & graph format.
+
+
