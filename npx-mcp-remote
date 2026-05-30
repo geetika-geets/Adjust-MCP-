@@ -1,0 +1,17 @@
+npx mcp-remote: A Ready-Made Bridge
+### Two Separate Words:
+
+#### `npx`
+
+- Stands for **Node Package Execute**
+- Think of it as an **app installer + runner** that comes with Node.js
+- It downloads and runs a tool **instantly** without you manually installing it
+- Real world analogy: Like an **app store** that downloads and opens an app in one click
+
+---
+
+#### `mcp-remote`
+
+- A **ready-made tool** that knows **how to connect Claude to any remote MCP server**
+- Someone else already built it — you don't need to build it yourself
+- Real world analogy: Like a **pre-built telephone** — you don't build the phone yourself, you just use it
