@@ -53,6 +53,6 @@ Adjust uses "npx mcp-remote" to directly connect to Adjust's hosted MCP
 	5) Restart Claude Desktop
 	6) Once successfully connected, you can see adjust-copilot connected
 
-5) After the successful connection, open the chat and ask Claude about your Adjust account Performance. Check the prompt example in prompt_example.txt
+5) After the successful connection, open the chat and ask Claude about your Adjust account Performance. Check the prompt example in [prompt_example.txt](https://github.com/geetika-geets/Adjust-MCP-/blob/main/prompt_example.txt)
 			
 			
