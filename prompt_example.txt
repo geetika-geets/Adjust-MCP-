@@ -1,0 +1,11 @@
+Account Details:
+- Adjust Account Name
+- Adjust Account ID:
+- App Token(s):
+
+Data to Fetch: 
+- Please share the previous 2 weeks' install numbers(Data Range), along with Ad spend at the channel & campaign level breakdown at the OS level.  
+- Please summarise the top-performing OS, channel, & campaign name.
+			
+Format: 
+- Please share the above install , & ad spend data using tabular & graph format.
