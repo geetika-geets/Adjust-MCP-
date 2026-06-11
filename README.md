@@ -1,4 +1,14 @@
 # Adjust-MCP-
+**What is MCP?**
+MCP = Model Context Protocol
+It's a universal language that allows AI assistants like Claude to talk to any external tool or service and perform designated tasks
+
+**Simple Analogy:**
+Think of Claude as a very smart employee who just joined your company.
+**Without MCP:**
+The employee is locked in a room with only the information you manually bring them
+**With MCP:**
+The employee has a universal key that opens any door — your database, your emails, your analytics tools, your calendar — everything!
 
 **Overview**
 This project provides MCP tools that allow AI assistants to interact with Adjust services through natural language.
